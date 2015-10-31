@@ -1,5 +1,22 @@
 #include <Servo.h>
 
+/*
+ * This code written by Jeff Glass, October 31 2015. It controls 3 servos with specified behavior for a prodcution at Seatle Children's Theatre
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or 
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,    
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License    
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
 Servo Truely;  // create servo object to control a servo
 Servo Jemma;   // a maximum of eight servo objects can be created
 Servo Boy;
